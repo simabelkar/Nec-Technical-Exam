@@ -1,0 +1,10 @@
+package com.nec.au.demo;
+
+public class App {
+	
+	public String AppSample()
+	{
+		return "Sample";
+	}
+
+}

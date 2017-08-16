@@ -1,0 +1,10 @@
+package com.nec.au.demo;
+
+public class HelloWorld {
+	
+	public String printHello()
+	{
+		return "Hallo World";
+	}
+
+}
